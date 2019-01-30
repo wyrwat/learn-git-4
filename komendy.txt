@@ -1,0 +1,15 @@
+1. install : npm install --save-dev autoprefixer-cli
+   use :     node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
+
+
+2.  install: npm install --save-dev nu-html-checker
+    use :    node_modules/.bin/nu-html-checker *.html
+
+3. sass --watch style.scss:style.css
+
+
+4.use: browse-sync : node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html"
+
+1. skopiuj package.json i gitignore do nowego folderu
+2. terminal : npm instal
+3.
