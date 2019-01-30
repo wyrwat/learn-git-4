@@ -1,7 +1,6 @@
 body {
   background-color: black;
   width: 100%;
-  display: flex;
 }
 
 h1 {
@@ -25,5 +24,8 @@ p {
   color: grey;
   text-transform: uppercase;
   padding-bottom: 10px;
+  display: -ms-flexbox;
   display: flex;
 }
+
+/*# sourceMappingURL=style.prefixed.css.map */
