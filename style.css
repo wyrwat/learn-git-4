@@ -1,6 +1,8 @@
 body {
   background-color: black;
   width: 100%;
+  margin: 0 auto;
+  display: flex;
 }
 
 h1 {
@@ -13,6 +15,7 @@ h2 {
   font-size: 30px;
   text-align: center;
   color: grey;
+  display: flex;
 }
 
 .lyrics {
