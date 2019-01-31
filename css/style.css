@@ -1,8 +1,6 @@
 body {
   background-color: black;
   width: 100%;
-  margin: 0 auto;
-  display: flex;
 }
 
 h1 {
@@ -15,7 +13,6 @@ h2 {
   font-size: 30px;
   text-align: center;
   color: grey;
-  display: flex;
 }
 
 .lyrics {
@@ -24,8 +21,14 @@ h2 {
 }
 
 p {
-  color: grey;
+  color: white;
   text-transform: uppercase;
   padding-bottom: 10px;
   display: flex;
 }
+
+footer {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
